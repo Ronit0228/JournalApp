@@ -5,7 +5,6 @@ import net.engineeringdigest.journalApp.dto.QuoteWithGreetingResponse;
 import net.engineeringdigest.journalApp.entity.User;
 import net.engineeringdigest.journalApp.service.QuotesService;
 import net.engineeringdigest.journalApp.service.UserService;
-//import net.engineeringdigest.journalApp.service.WeatherService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
